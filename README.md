@@ -18,8 +18,6 @@ Workflow is presented as follows
 
   Note: In this step, make sure you have set up an Metamask account for deploying contracts in Projects/Security 
 
-  ![image-20220103185523841](C:\Users\shawn\AppData\Roaming\Typora\typora-user-images\image-20220103185523841.png)
-
 - Deploy the token by following commands 
 
   ```
